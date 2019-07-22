@@ -1,0 +1,16 @@
+{
+    "dict": "../dict/dict.csv",
+    "pop_dict": "../dict/pop_dict.txt",
+    "ltp_model": "/home/student2/ltp/ltp_data_v3.4.0",
+
+    "mini_data": false,
+    "epoch": 100,
+    "batch_size": 32,
+    "log_step": 100,
+    "lr": 0.0001,
+
+    "dropout": 0.2,
+    "input_size": 111,
+    "hidden_size": 150,
+    "layers": 2
+}
